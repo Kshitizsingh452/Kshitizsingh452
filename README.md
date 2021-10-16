@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kshitizsingh244@gmail.com**
 
-- 📄 Know about my experiences [kshitizsingh452.github.io](kshitizsingh452.github.io)
+- 📄 Know about my experiences [kshitizsingh452.github.io](https://kshitizsingh452.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

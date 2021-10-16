@@ -1,5 +1,6 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Kshitiz Kumar Singh</h1>
-<h3 align="center">On a mission to explore all the fields.</h3>
+<h3 align="center">On a mission to explore all the fields.</h3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitizsingh452&label=Profile%20views&color=0e75b6&style=flat" alt="kshitizsingh452" /> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">

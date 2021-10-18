@@ -42,3 +42,18 @@
 
 <br/>
 
+
+<br/>
+
+<a href="https://github.com/Kshitizsingh452/github-readme-activity-graph"><img alt="Kshitiz singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kshitizsingh452&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Kshitizsingh452">
+</a>
+<a href="https://github.com/Kshitizsingh452?tab=followers"><img src="https://img.shields.io/github/followers/Kshitizsingh452?label=Followers&style=social" alt="GitHub Badge"></a>
+
+

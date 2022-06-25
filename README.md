@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitizsingh452&label=Profile%20views&color=0e75b6&style=flat" alt="kshitizsingh452" /> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-- 🌱 I’m currently learning **CSS and Javascript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kshitizsingh452](https://github.com/Kshitizsingh452)
 
